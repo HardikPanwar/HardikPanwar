@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/hardikpanwar_12" target="blank"><img src="https://img.shields.io/twitter/follow/hardikpanwar_12?logo=twitter&style=for-the-badge" alt="hardikpanwar_12" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
-- 🔭 I’m currently working on [Minor Project](https://github.com/HardikPanwar/Iconicart-client-side)
+- 🔭 I’m currently working on  Minor Project and [Developer Student group website](https://github.com/HardikPanwar/GDSC-website)
 
 - 🌱 I’m currently learning **React Native**
 
