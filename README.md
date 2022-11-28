@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardikpanwar" alt="hardikpanwar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hardikpanwar_12" target="blank"><img src="https://img.shields.io/twitter/follow/hardikpanwar_12?logo=twitter&style=for-the-badge" alt="hardikpanwar_12" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<img align="right" alt="Coding" width="400" src="http://surl.li/dvuza" >
 
 - 🔭 I’m currently working on  Minor Project and [Developer Student group website](https://github.com/HardikPanwar/Gdsc-Cdgi-Page)
 
