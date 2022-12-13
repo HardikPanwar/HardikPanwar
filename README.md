@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hardik Panwar</h1>
 <h3 align="center">A passionate Enthusiast Coder from India</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&multiline=true&width=403&height=90&lines=Full+Stack+Developer+;Programmer;Open+Source+Contributer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&multiline=true&width=404&height=90&lines=Full+Stack+Developer+;Programmer;Open+Source+Contributer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikpanwar&label=Profile%20views&color=0e75b6&style=flat" alt="hardikpanwar" /> </p>
 
