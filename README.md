@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HardikPanwar&show_icons=true&locale=en" alt="HardikPanwar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HardikPanwar&" alt="HardikPanwar" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HardikPanwar&theme=github-dark-blue)](https://git.io/streak-stats)
