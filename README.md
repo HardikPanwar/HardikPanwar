@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikpanwar&label=Profile%20views&color=0e75b6&style=flat" alt="hardikpanwar" /> </p>
 
+[![An image of @hardikpanwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hardikpanwar)](https://holopin.io/@hardikpanwar)
+
 <p align="left"> <a href="https://twitter.com/hardikpanwar_12" target="blank"><img src="https://img.shields.io/twitter/follow/hardikpanwar_12?logo=twitter&style=for-the-badge" alt="hardikpanwar_12" /></a> </p>
 <img align="right" alt="Coding" width="400" src="http://surl.li/dvuza" >
 
