@@ -9,7 +9,11 @@
 [![An image of @hardikpanwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hardikpanwar)](https://holopin.io/@hardikpanwar)
 
 <p align="left"> <a href="https://twitter.com/hardikpanwar_12" target="blank"><img src="https://img.shields.io/twitter/follow/hardikpanwar_12?logo=twitter&style=for-the-badge" alt="hardikpanwar_12" /></a> </p>
-<img align="right" alt="Coding" width="400" src="http://surl.li/dvuza" >
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" > 
+
+
+
 
 - 🔭 I’m currently working on  Minor Project and [Developer Student Club website](https://github.com/HardikPanwar/Gdsc-Cdgi-Page)
 
