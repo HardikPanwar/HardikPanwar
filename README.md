@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello👋, I'm Hardik Panwar</h1>
 
-<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=30&duration=3000&pause=1000&color=34F70A&background=FFFFFF00&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Mentor+%40GDSC" alt="Typing SVG" /></a></p>
+<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=30&duration=3000&pause=1000&color=34F70A&background=FFFFFF00&width=1000&lines=Full+Stack+Developer;Open+Source+Contributor;Mentor+%40GDSC" alt="Typing SVG" /></a></p>
 
 [![An image of @hardikpanwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hardikpanwar)](https://holopin.io/@hardikpanwar)
 
