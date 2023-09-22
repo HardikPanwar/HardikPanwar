@@ -3,7 +3,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hardikpanwar&label=Profile%20views&color=0e75b6&style=flat" alt="hardikpanwar" /> </p>
 
 <h1 align="center">Hello👋, I'm Hardik Panwar  </br>
-  <a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=39&duration=3000&pause=1000&color=34F70A&background=FFFFFF00&width=500&center=true&vCenter=true&&lines=Full+Stack+Developer;Open+Source+Contributor;Mentor+%40GDSC" alt="Typing SVG" /></a> </h1>
+  <a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=38&duration=3000&pause=1000&color=34F70A&background=FFFFFF00&width=500&center=true&vCenter=true&&lines=Full+Stack+Developer;Open+Source+Contributor;Mentor+%40GDSC" alt="Typing SVG" /></a> </h1>
 
 
 
