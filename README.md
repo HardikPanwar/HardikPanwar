@@ -44,7 +44,7 @@
 
 </br>
 
-## My contributions stats
+## My contributions stats 😎
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HardikPanwar&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HardikPanwar&show_icons=true&theme=highcontrast&locale=en" alt="HardikPanwar" /></p>
