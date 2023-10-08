@@ -15,13 +15,13 @@
 
 - 🔭 I’m currently working on my Major Project.
 
-- 🌱 I’m currently learning **Cloud and Advance ReactJs**
+- 🌱 I’m currently learning **Cloud computing and Advance ReactJs**.
 
-- 💬 Ask me about **React ,MySQl ,Javascript, Nodejs**
+- 💬 Ask me about **Javascript, React ,MySQl ,Nodejs, Open source**.
 
-- 📫 How to reach me **hardikpanwar63@gmail.com**
+- 📫 How to reach me **hardikpanwar63@gmail.com**.
 
-- ⚡ Fun fact **My favorite word is Knowledge because no one can steal it**
+- ⚡ Fun fact **My favorite word is Knowledge because no one can steal it**.
 
 </br>
 </br>
