@@ -5,8 +5,6 @@
 <h1 align="center">Hello👋, I'm Hardik Panwar</br>
   <a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=38&duration=3000&pause=1000&color=34F70A&background=FFFFFF00&width=500&center=true&vCenter=true&&lines=Full+Stack+Developer;Open+Source+Contributor;Mentor+%40GDSC" alt="Typing SVG" /></a> </h1>
 
-
-
 [![An image of @hardikpanwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hardikpanwar)](https://holopin.io/@hardikpanwar)
 
 <p align="left"> <a href="https://twitter.com/hardikpanwar_12" target="blank"><img src="https://img.shields.io/twitter/follow/hardikpanwar_12?logo=twitter&style=for-the-badge" alt="hardikpanwar_12" /></a> </p>
