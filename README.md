@@ -20,7 +20,6 @@
 - 📫 How to reach me **hardikpanwar63@gmail.com**.
 
 - ⚡ Fun fact **My favorite word is Knowledge because no one can steal it**.
-
 </br>
 </br>
 
