@@ -38,7 +38,6 @@
     <img src="https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,react,nodejs,express,mysql,mongodb,git,github,postman,discord,firebase,vercel,netlify,vscode,aws,gcp,redux,c,figma,canva&theme=dark" />
   </a>
 </p>
-
 </br>
 
 ## My contributions stats 😎
